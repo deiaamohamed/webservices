@@ -1,0 +1,12 @@
+{
+    "name": "deiaa/products",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Deiaa\\Products\\": "src/"
+        }
+    }
+}
